@@ -5,6 +5,6 @@ cc_library(
     '**/*.h',
   ]),
   includes = [
-    'include',
+    '.',
   ],
 )
